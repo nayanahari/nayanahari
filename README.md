@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Nayanahari Kusalanjani</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanahari" alt="nayanahari" /></a> </p>
 
 - 🌱 I’m currently learning **Design Patterns, Frameworks**
 
@@ -25,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanahari&show_icons=true&locale=en&layout=compact" alt="nayanahari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayanahari&show_icons=true&locale=en" alt="nayanahari" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanahari" alt="nayanahari" /></a> </p>
