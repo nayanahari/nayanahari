@@ -11,7 +11,7 @@
 - 🌱 Currently learning **Vue.js, Nuxt.js & Laravel**  
 - 👩‍💻 Exploring **modern web technologies & scalable architectures**  
 - 👯 Looking to collaborate on **web/mobile projects**  
-- 💬 Ask me about **React.js, Node.js, Laravel, Vue, Nuxt**  
+- 💬 Ask me about **React.js, Node.js**  
 - 📫 Reach me at **nayanaharikusalanajani@gmail.com**
 
 ---
